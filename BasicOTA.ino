@@ -4,7 +4,7 @@
 #include <ArduinoOTA.h>
 
 #ifndef STASSID
-#define STASSID "Xiaomi 11T Pro"
+#define STASSID "Xiaomi 11T Pro2"
 #define STAPSK "casinatukory"
 #endif
 
